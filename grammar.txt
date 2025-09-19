@@ -1,0 +1,75 @@
+1 1 Word --> Prefix Stem Suffix
+Prefix --> ^^^
+Prefix --> ^^^ PrefixMorphs
+1 1 PrefixMorphs --> PrefixMorph PrefixMorphs
+1 1 PrefixMorphs --> PrefixMorph
+PrefixMorph --> Chars
+Stem --> Chars
+Suffix --> $$$
+Suffix --> SuffixMorphs $$$
+1 1 SuffixMorphs --> SuffixMorph SuffixMorphs
+1 1 SuffixMorphs --> SuffixMorph
+SuffixMorph --> Chars
+1 1 Chars --> Char
+1 1 Chars --> Char Chars
+1 1 Char --> fffe2600
+1 1 Char --> fffe2700
+1 1 Char --> fffe3000
+1 1 Char --> fffe3100
+1 1 Char --> fffe3200
+1 1 Char --> fffe3300
+1 1 Char --> fffe3400
+1 1 Char --> fffe3500
+1 1 Char --> fffe3600
+1 1 Char --> fffe3700
+1 1 Char --> fffe3800
+1 1 Char --> fffe3900
+1 1 Char --> fffe4100
+1 1 Char --> fffe4200
+1 1 Char --> fffe4300
+1 1 Char --> fffe4400
+1 1 Char --> fffe4500
+1 1 Char --> fffe4600
+1 1 Char --> fffe4700
+1 1 Char --> fffe4800
+1 1 Char --> fffe4900
+1 1 Char --> fffe4a00
+1 1 Char --> fffe4b00
+1 1 Char --> fffe4c00
+1 1 Char --> fffe4d00
+1 1 Char --> fffe4e00
+1 1 Char --> fffe5000
+1 1 Char --> fffe5200
+1 1 Char --> fffe5300
+1 1 Char --> fffe5400
+1 1 Char --> fffe5500
+1 1 Char --> fffe5600
+1 1 Char --> fffe5700
+1 1 Char --> fffe5800
+1 1 Char --> fffe5a00
+1 1 Char --> fffe6100
+1 1 Char --> fffe6200
+1 1 Char --> fffe6300
+1 1 Char --> fffe6400
+1 1 Char --> fffe6500
+1 1 Char --> fffe6600
+1 1 Char --> fffe6700
+1 1 Char --> fffe6800
+1 1 Char --> fffe6900
+1 1 Char --> fffe6a00
+1 1 Char --> fffe6b00
+1 1 Char --> fffe6c00
+1 1 Char --> fffe6d00
+1 1 Char --> fffe6e00
+1 1 Char --> fffe6f00
+1 1 Char --> fffe7000
+1 1 Char --> fffe7100
+1 1 Char --> fffe7200
+1 1 Char --> fffe7300
+1 1 Char --> fffe7400
+1 1 Char --> fffe7500
+1 1 Char --> fffe7600
+1 1 Char --> fffe7700
+1 1 Char --> fffe7800
+1 1 Char --> fffe7900
+1 1 Char --> fffe7a00
